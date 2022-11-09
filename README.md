@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to Raphael Fide Christano's GitHub Page!</h1>
+<br>
 <h4 align="center"This Github Page currently houses projects for an Operating System and a Platform Based Dev class.</h4>
 <h5 align="center"I'm interested in learning more about Game Development.</h5>
 <br>
