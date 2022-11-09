@@ -7,7 +7,6 @@
 <p align="center">
 <a href="https://instagram.com/fideraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fideraphael" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucftpwrxibfbhefz_rsmml9q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucftpwrxibfbhefz_rsmml9q" height="30" width="40" /></a>
-<a href="https://discord.gg/Fideraphael#0425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fideraphael#0425" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center">Languages and Tools I've learned or is in the process of learning:</h3>
