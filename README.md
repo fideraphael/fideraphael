@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fideraphael&label=Profile%20Visits&color=003df5&style=flat" alt="fideraphael" /> </p>
 <h3 align="center">This Github Page currently houses projects for an Operating System and a Platform Based Dev class.</h3>
-<h4 align="center">I’m interested in learning more about **Game Development**</h4>
+<h4 align="center">I’m interested in learning more about Game Development</h4>
 
 <p align="center">You can reach me via Gmail on <a href="mailto:fideraphael@gmail.com"><strong>fideraphael@gmail.com</strong></a></p>
 <br><br>
