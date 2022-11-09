@@ -1,9 +1,10 @@
 <h1 align="center">Welcome to Raphael Fide Christano's GitHub Page!</h1>
-<h5 align="center"This Github Page currently houses projects for an Operating System and a Platform Based Dev class.</h5>
+<h4 align="center"This Github Page currently houses projects for an Operating System and a Platform Based Dev class.</h4>
+<h5 align="center"I'm interested in learning more about Game Development.</h5>
 <br>
 <p align="center">You can reach me via Gmail on <a href="mailto:fideraphael@gmail.com"><strong>fideraphael@gmail.com</strong></a></p>
 <br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">My Socials:</h3>
 <p align="center">
 <a href="https://instagram.com/fideraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fideraphael" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucftpwrxibfbhefz_rsmml9q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucftpwrxibfbhefz_rsmml9q" height="30" width="40" /></a>
