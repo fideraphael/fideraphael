@@ -93,11 +93,7 @@ Here are some of the projects I've worked on during my studies and collaboration
 ---
 
 <div style="display: inline-block; padding: 50px;" align="left"> 
-    <p><img src="https://github-readme-stats.vercel.app/api?username=fideraphael&show_icons=true&locale=en&theme=dracula" alt="fideraphael"  height="180" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fideraphael&theme=dracula" alt="fideraphael" height="180" /></p>
+    <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=fideraphael&show_icons=true&locale=en&theme=dracula" alt="fideraphael"  height="180" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fideraphael&theme=dracula" alt="fideraphael" height="180" /></p> -->
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fideraphael&layout=compact&theme=dracula" alt="fideraphael" height="180" /></p>
-</div>
-
-<div align="center">
-    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
